@@ -11,18 +11,6 @@ public class Fahrzeug{
         this.gesamtgewicht = c;
     }
 
-    public void setLeergewicht(double leergewicht) {
-        this.leergewicht = leergewicht;
-    }
-
-    public void setFahrzeugnummer(String fahrzeugnummer) {
-        this.fahrzeugnummer = fahrzeugnummer;
-    }
-
-    public void setGesamtgewicht(double gesamtgewicht) {
-        this.gesamtgewicht = gesamtgewicht;
-    }
-
     public void druckeFahrzeugdaten(){
         System.out.println("Fahrzeugnummer: " + fahrzeugnummer);
         System.out.println("Leergewicht: " + leergewicht);
