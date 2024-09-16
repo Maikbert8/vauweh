@@ -9,10 +9,6 @@ public class Fahrrad extends Fahrzeug{
         this.rahmenhoehe = d;
     }
 
-    public void setRahmenhoehe(double rahmenhoehe) {
-        this.rahmenhoehe = rahmenhoehe;
-    }
-
     @Override
     public void druckeFahrzeugdaten() {
         super.druckeFahrzeugdaten();
