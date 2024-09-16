@@ -1,2 +1,2 @@
 # vauweh
-school
+Maik versteht GitHub nicht 🤯🔫
