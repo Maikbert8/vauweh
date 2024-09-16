@@ -24,6 +24,8 @@ public class Fahrzeug{
     }
 
     public void druckeFahrzeugdaten(){
-        System.out.println("Fahrzeugnummer: "+fahrzeugnummer+" Leergewicht: "+leergewicht+ " Gesamtgewicht: "+gesamtgewicht);
+        System.out.println("Fahrzeugnummer: " + fahrzeugnummer);
+        System.out.println("Leergewicht: " + leergewicht);
+        System.out.println("Gesamtgewicht: " + gesamtgewicht);
     }
 }
